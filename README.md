@@ -3,3 +3,5 @@
 > Simple Webworker example
 
 ## Demo
+
+https://niceaji.github.io/vite-worker-example/
